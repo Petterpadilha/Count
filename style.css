@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+
+}
+.content {
+    text-align: center;
+    margin-top: 220px;
+    font-size: 60px;
+}
+.btn {
+display: flex;
+gap: 5px;
+align-items: center;
+justify-content: center;
+height: 40px;
+
+
+}
+.incre {
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+    
+
+}
+.reset {
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(243, 121, 7);
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+    
+
+}
+.decre {
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+}
